@@ -1,5 +1,4 @@
 # **Pangolin Solutions**
-- - - -
 
 ## Who we are
 We are bunch of Rust lovers. We are not satisfied with our daily use and learning of Rust so We have started Pangolin Solutions as a side hustle to gain more experience particularly in Rust programming language.
