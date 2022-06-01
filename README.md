@@ -20,4 +20,4 @@ Due to ownership model, Rust prevents many class of bugs including resource leak
 Somebody rightly said "The greenest energy is the energy we don't use". Rust delivers efficient and performant applications even with large applications and so application developed using Rust is as energy efficient as C. There is a nice article by Amazon showing that. You can read it here.
 
 ## Got a project to discuss?
-Contact us at pangolin.sols@gmail.com
+Contact us at vbmade2000@gmail.com
